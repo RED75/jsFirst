@@ -9,5 +9,6 @@ function placeMiss() {
 
     }
     alert(document.getElementById("guessInput").innerHTML.toString());
+    //todo: page 354
 
 }
