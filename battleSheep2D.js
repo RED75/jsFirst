@@ -1,6 +1,7 @@
 /**
  * Created by RED75 on 29.05.2016.
  */
+//todo: 359
 var view = {
     displayMessage: function (msg) {
         var messageArea = document.getElementById("messageArea");
